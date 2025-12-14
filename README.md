@@ -52,11 +52,9 @@ pip install sh
 ### 1. Install Python & AWS CLI
 
 ```powershell
+Manually from the site
 # Install Python if not already installed
-winget install Python.Python.3
-
 # Install AWS CLI
-msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
 
 ### 2. Create & Activate Virtual Environment
