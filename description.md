@@ -31,6 +31,3 @@ This project provides a **Python-based CLI tool** to manage AWS EC2 instances us
 * Understand **CLI integration** in Python scripts.
 * Manage the **full lifecycle of EC2 instances** with simple commands.
 
----
-
-If you want, I can also rewrite it in a **more concise, beginner-friendly version** that highlights **usage examples and learning goals**. This is great for tutorials or internal documentation. Do you want me to do that?
