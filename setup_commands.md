@@ -84,7 +84,8 @@ python ec2_operations.py \
 ## **Windows Setup (PowerShell)**
 
 ### 1. Install Python & AWS CLI
-
+Intall python and aws cli from the their official website 
+#### or
 ```powershell
 # Install Python (if not installed)
 winget install Python.Python.3
